@@ -1,23 +1,22 @@
 // Import all SVG icons directly
-import community from "../assets/icons/community.svg"
-import gym from "../assets/icons/gym.svg"
-import wifi from "../assets/icons/wifi.svg"
-import cafe from "../assets/icons/cafe.svg"
-import affordable from "../assets/icons/rupee.svg"
-import lounges from "../assets/icons/comfort.svg"
-import booking from "../assets/icons/clock.svg"
-import sportsArea from "../assets/icons/sports.svg"
-
+import CommunityIcon from "../assets/icons/community.svg"
+import GymIcon from "../assets/icons/gym.svg"
+import WifiIcon from "../assets/icons/wifi.svg"
+import CafeIcon from "../assets/icons/cafe.svg"
+import AffordableIcon from "../assets/icons/rupee.svg"
+import LoungesIcon from "../assets/icons/comfort.svg"
+import BookingIcon from "../assets/icons/clock.svg"
+import SportsAreaIcon from "../assets/icons/sports.svg"
 
 const Icons = {
-  community,
-  gym,
-  wifi,
-  cafe,
-  affordable,
-  lounges,
-  booking,
-  sportsArea,
+  community: CommunityIcon,
+  gym: GymIcon,
+  wifi: WifiIcon,
+  cafe: CafeIcon,
+  affordable: AffordableIcon,
+  lounges: LoungesIcon,
+  booking: BookingIcon,
+  sportsArea: SportsAreaIcon,
 }
 
 export default Icons
