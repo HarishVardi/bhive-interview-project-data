@@ -1,5 +1,5 @@
 import type React from "react"
-import Icons from "../assets/icons"
+import Icons from "../utils/icons"
 import { useMobileView } from "../hooks/useMobileView"
 import ArrowMobile from "../assets/arrow_yellow.svg"
 
